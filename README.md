@@ -8,7 +8,9 @@ Entry for the make.fun bounty [Make the AI judge feel curious](https://make.fun/
 
 `main.py` (Python 3.13, standard library) writes one fixed UTF-8 text to `/output/entry.txt`:
 
-> You find your winter coat at the back of the closet. In its pocket: a smooth grey stone, and a ferry ticket to an island you have never heard of, stamped for tomorrow, 7:10 a.m. The stone fits your palm exactly. Outside, the rain is slow. You set your alarm.
+> Your grandmother's pantry has a jar labelled, in her neat hand, "for the second spring." Inside are seeds you can't name, dry and pale as rice. There was only ever one spring a year. You plant three by the fence and water them, and wait.
+
+Chosen over three other drafts (a coat-pocket ferry ticket, a text addressed to the AI reader, a lighthouse control) by a small local mock judge that ran every pair in both orders.
 
 ## Scoring
 
